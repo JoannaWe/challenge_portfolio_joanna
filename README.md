@@ -12,4 +12,6 @@ Zadanie polega na zapoznaniu się z aplikacją na stronie https://scouts-test.fu
 
 Do testów użyto przeglądarkę internetową Google Chrome Wersja 109.0.5414.74 (Oficjalna wersja) (64-bitowa)
 
-Podczas logowania się na strone z wykorzystaniem jednego z 10 podanych kont wystąpił problem z zalogowaniem się (Screenshot 1)
+Podczas logowania się na strone z wykorzystaniem jednego z 10 podanych kont wystąpił problem z zalogowaniem się Rys.1 
+![image](https://user-images.githubusercontent.com/121824536/212974377-192da72d-ec4b-497f-bd13-f87623ab89d3.png)
+Rys.1. *(Screenshot 1) błąd podczas logowania*
