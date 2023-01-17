@@ -43,5 +43,5 @@ Ponownie zalogowano się do aplikacji przy użyciu konta nr 6 (user06@getnada.co
 * Po wybraniu podkategorii 'Gracze' zauważono ostrzeżenie.
 
 ![image](https://user-images.githubusercontent.com/121824536/212999220-0d395527-448e-4f6f-a880-deaa3249ee0b.png)
-
-
+## Subtask 5
+Dołączyłam do zespołu projektowego w Jirze :grinning:
