@@ -29,3 +29,18 @@ Rys.2. *(Screenshot 2) wygląd strony https://scouts-test.futbolkolektyw.pl/pl p
   * Panel boczny pokazujący ostatnie aktywności dodatkowo mógłby zawierać czas i datę danej aktywności. 
   * Dodatkowo u góry przy ilościach graczy, meczy mogłoby być dodatkowo podane ile dziennie przybywa graczy lub ile rozegrano dziennie meczy. 
   * Na stronie głównej można by umieścic ranking dziesieciu najlepszych graczy i drużyn.
+  * Podczas procesu tworzenia profilu gracza, dodałabym możliwość udostępnienia większej ilości mediów społecznościowych takich jak Twitter, Instagram czy TikTok.
+  * Do panelu bocznego dodałabym kategorie 'Mecze' i 'Raporty' bezpośrednio ze strony głównej, a nie tak jak teraz kiedy pojawiają się dopiero na panelu bocznym po kliknięciu w ostatnio stworzony mecz w aktywnościach.
+  * W tabeli 'Gracze' brakuje mi podkreślenia w bardziej widoczny sposób możliwości sortowania graczy, ponieważ dopiero po przypadkowym kliknięciu w 'Recenzja' dowiedziałam się, że można sortować według malejących lub rosnących wartości.
+  * W tabelach 'Mecze' i 'Raporty' brakuje mi wogóle opcji sortowania.
+  
+**3.** Interfejs jest przejrzysty, jednakże zmieniłabym wygląd strony np. dodając jakieś kolorowe tło.
+
+**4.** Strona jest intuicyjna. Nie mam problemu ze zrozumieniem co należy kliknąć, żeby wejści w daną podkategorię. Linki do podstron są napisane wyraźną dużą czcionką i podkreślone, a także mają inny kolor tekstu.
+
+#### Znalezione błędy
+Ponownie zalogowano się do aplikacji przy użyciu konta nr 6 (user06@getnada.com ). Do testów użyto przeglądarkę internetową Google Chrome Wersja 109.0.5414.74 (Oficjalna wersja) (64-bitowa). Tryb incognito.
+* Po wybraniu podkategorii 'Gracze' zauważono ostrzeżenie.
+![image](https://user-images.githubusercontent.com/121824536/212999220-0d395527-448e-4f6f-a880-deaa3249ee0b.png)
+
+
