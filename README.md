@@ -21,3 +21,8 @@ Następnie podjęłam próbę zalogowania się kontem nr 10 (user10@getnada.com)
 
 ![image](https://user-images.githubusercontent.com/121824536/212975610-df6f9f7b-9066-4386-a28c-cf8eed720501.png)
 Rys.2. *(Screenshot 2) wygląd strony https://scouts-test.futbolkolektyw.pl/pl po zalogowaniu*
+
+* Aplikacja posiada panel zarządzania graczami i meczami oraz służy do tworzenia raportów.
+* Na stronie widoczne są statysyki ilości graczy, rozegranych meczów, ilości wygenerowanych raportów i ilości akcji. Z panelu bocznego po lewej stronie możemy wybrać: Stronę główną, kategorię 'Gracze', zmienić język z polskiego na angielski i na odwrót, a także wylogować się. Dodatkowo aplikacja oferuje bezpośrednie przekiereowanie do kontaktu z zespołem. Ponadto możemy utworzyć profil Gracza. Po prawej stronie mamy panel z ostatnimi aktywnościami na stronie, który umożliwia nam bezpośrednie przekierowanie do podstron, aby uzyskać szersze informacje o danej aktywności.
+
+  * Panel boczny pokazujący ostatnie aktywności dodatkowo mógłby zawierać czas i datę danej aktywności. Dodatkowo u góry przy ilościach graczy, meczy mogłoby być dodatkowo podane ile dziennie przybywa graczy lub ile rozegrano dziennie meczy. Doadtkowo na stronie głównej można by umieścic ranking dziesieciu najlepszych graczy i drużyn.
